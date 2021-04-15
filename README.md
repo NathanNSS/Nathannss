@@ -17,12 +17,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanNSS&show_icons=true" alt="NathanNSS"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=NathanNSS&show_icons=true" alt="DashboardGitCommit"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanNSS&layout=compact&langs_count=8&theme=vue-dark" alt="DashboardGitLang"/>-->
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nathan-soares-dos-santos-97bbbb196" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="iconLinkdin" height="40" width="40" /></a>
-<a href="mailto:nathannss14@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1618507332~hmac=8e46ffd1cb8e6cdfa0cbb787eb6a425f" alt="iconGmail" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/nathan-soares-dos-santos-97bbbb196" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="iconLinkdin" height="70" width="70" /></a>
+<a href="mailto:nathannss14@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1618507332~hmac=8e46ffd1cb8e6cdfa0cbb787eb6a425f" alt="iconGmail" height="30" width="30" /></a>
  <!--
 <a href="mailto:nathannss14@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="iconGmail" height="20" width="20" /></a>
 -->
