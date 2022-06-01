@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nathan Soares</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35">, I'm Nathan Soares</h1>
 <h3 align="center">A Software Developer Focused on The Web</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NathanNSS" alt="NathanNSS" /> </p>
 
